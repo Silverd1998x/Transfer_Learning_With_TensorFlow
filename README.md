@@ -10,7 +10,7 @@ conda activate TransferLearning
 ```
 ## 3. Cài đặt các thư viện
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 ## 4. Download dữ liệu
 Bạn phải download các tập dữ liệu từ các nguồn sau đây và để vào thư mục Data:
